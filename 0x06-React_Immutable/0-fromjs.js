@@ -5,4 +5,3 @@ function getImmutableObject(object) {
 }
 
 export default getImmutableObject;
-
